@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Instag</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_pass">Enter Password</string>
 </resources>
